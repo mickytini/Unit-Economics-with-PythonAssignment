@@ -10,6 +10,7 @@ The following datasets were used:
 3. **Marketing Spending**: Daily marketing expenses.
 4. **Receipts History**: Revenue and customer information.
 5. **Customer Lifespan**: Dates for customer onboarding and churn.
+6. Link: https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv?usp=drive_link
 
 ## Steps and Decisions
 1. **Customer Acquisition Cost (CAC)**:
