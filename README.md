@@ -47,9 +47,3 @@ To automate the script execution, follow these steps:
 For detailed instructions, refer to the Colab file provided during the course.
 
 ---
-
-## Conclusion and Recommendations
-Refer to the [Conclusion and Recommendations](#conclusion-and-recommendations) section for insights derived from this analysis.
-
-## License
-This project is for educational purposes and is open-source. Feel free to use and modify the code as needed.
